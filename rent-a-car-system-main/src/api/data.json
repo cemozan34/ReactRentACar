@@ -1,0 +1,39 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "type": "Truck",
+      "price": "200"
+    },
+    {
+      "id": "2",
+      "type": "Van",
+      "price": "205"
+    },
+    {
+      "id": "3",
+      "type": "Sedan",
+      "price": "190"
+    },
+    {
+      "id": "4",
+      "type": "Mini",
+      "price": "170"
+    },
+    {
+      "id": "5",
+      "type": "Sedan",
+      "price": "210"
+    },
+    {
+      "id": "6",
+      "type": "Truck",
+      "price": "250"
+    },
+    {
+      "id": "7",
+      "type": "Mini-Van",
+      "price": "150"
+    }
+  ]
+}
